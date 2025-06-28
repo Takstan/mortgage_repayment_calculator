@@ -5,7 +5,7 @@ You can check out more of my practice work on [GitHub](https://github.com/Taksta
 
 May the force be with you.
 
-# news-homepage-main (Frontend Mentor Challenge)
+# mortgage-repayment-calculator (Frontend Mentor Challenge)
 
 Welcome, Jedi Masters👋 This is a front-end challenge project from [Frontend Mentor](https://www.frontendmentor.io/).  
 It’s a responsive mortgage repayment calculator built with modern technologies.
